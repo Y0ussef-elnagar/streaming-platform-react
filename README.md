@@ -1,8 +1,6 @@
 # Streaming Platform React 🎬
 
-A **Netflix-style streaming platform** built with **React** and **Vite**, featuring a responsive UI and Firebase authentication.  
-
-![Project Screenshot](public/screenshot.png) <!-- ضع هنا صورة إذا عندك -->
+A ** Streaming platform** built with **React** and **Vite**, featuring a responsive UI and Firebase authentication.  
 
 ---
 
