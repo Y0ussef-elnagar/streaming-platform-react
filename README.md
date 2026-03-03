@@ -1,6 +1,6 @@
 # Streaming Platform React 🎬
 
-A ** Streaming platform** built with **React** and **Vite**, featuring a responsive UI and Firebase authentication.  
+A **Streaming platform** built with **React** and **Vite**, featuring a responsive UI and Firebase authentication.  
 
 ---
 
